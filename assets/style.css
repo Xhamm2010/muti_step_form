@@ -1,0 +1,18 @@
+/*==================== GOOGLE FONTS ====================*/
+/* @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap"); */
+@font-face {
+    font-family: "Ubuntu";
+    src: url("font/Ubuntu-Bold.ttf") format("ttf");
+    font-weight: regular;
+  }
+  @font-face {
+    font-family: "Ubuntu";
+    src: url("font/Ubuntu-Bold.ttf") format("ttf");
+    font-weight: medium;
+  }
+  @font-face {
+    font-family: "Ubuntu";
+    src: url("font/Ubuntu-Bold.ttf") format("ttf");
+    font-weight: bold;
+  }
+  
